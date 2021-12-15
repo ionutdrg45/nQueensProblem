@@ -1,0 +1,7 @@
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare CURS\aplicatii\curs_15dec\nQueensProblemWithoutStatic\nQueensProblemWithoutStatic\bin\Debug\nQueensProblemWithoutStatic.exe.config
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare CURS\aplicatii\curs_15dec\nQueensProblemWithoutStatic\nQueensProblemWithoutStatic\bin\Debug\nQueensProblemWithoutStatic.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare CURS\aplicatii\curs_15dec\nQueensProblemWithoutStatic\nQueensProblemWithoutStatic\bin\Debug\nQueensProblemWithoutStatic.pdb
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare CURS\aplicatii\curs_15dec\nQueensProblemWithoutStatic\nQueensProblemWithoutStatic\obj\Debug\nQueensProblemWithoutStatic.csproj.AssemblyReference.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare CURS\aplicatii\curs_15dec\nQueensProblemWithoutStatic\nQueensProblemWithoutStatic\obj\Debug\nQueensProblemWithoutStatic.csproj.CoreCompileInputs.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare CURS\aplicatii\curs_15dec\nQueensProblemWithoutStatic\nQueensProblemWithoutStatic\obj\Debug\nQueensProblemWithoutStatic.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare CURS\aplicatii\curs_15dec\nQueensProblemWithoutStatic\nQueensProblemWithoutStatic\obj\Debug\nQueensProblemWithoutStatic.pdb
